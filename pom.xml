@@ -11,11 +11,7 @@
 			<artifactId>testng</artifactId>
 			<version>7.10.2</version>
 		</dependency>
-		<dependency>
-			<groupId>tekp</groupId>
-			<artifactId>Adv_Selenium</artifactId>
-			<version>0.0.1-SNAPSHOT</version>
-		</dependency>
+		
 	</dependencies>
 	<profiles>
 	<profile>
