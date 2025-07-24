@@ -1,10 +1,13 @@
-package organization;
+package products;
 
 import org.testng.annotations.Test;
 
-public class OrgTest {
+public class ProdTest {
+
 	@Test
-	public void orgTest() {
+	public void prodTest() {
+		System.out.println("don't know");
+		System.out.println("Trying to knowww conflicts");
 		
 		String Browser = System.getProperty("browser");
 		String Url = System.getProperty("url");
@@ -15,9 +18,6 @@ public class OrgTest {
 		System.out.println(Url);
 		System.out.println(Username);
 		System.out.println(Password);
-		
-		System.out.println("orgnization KLR created");
-		System.out.println("KLR cricket academy");
-		System.out.println("Trying Conflict in SOM ");
 	}
+
 }
