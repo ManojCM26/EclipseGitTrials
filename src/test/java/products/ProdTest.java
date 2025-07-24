@@ -6,8 +6,8 @@ public class ProdTest {
 
 	@Test
 	public void prodTest() {
-		System.out.println("don't know");
-		System.out.println("Trying to knowww conflicts");
+		System.out.println("I do know");
+		System.out.println("But Trying to knowww conflicts");
 		
 		String Browser = System.getProperty("browser");
 		String Url = System.getProperty("url");
